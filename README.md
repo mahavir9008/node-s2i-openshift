@@ -1,3 +1,6 @@
+Learn openshift and depolyment
+
+https://gist.github.com/dewan-ahmed/e9fc77f9039ffe893e50d193610ac75d
 # Patient Health Records - App Modernization with RedHat OpenShift
 
 This project is a patient records user interface for a conceptual health records system. The UI is programmed with open standards JavaScript and modern, universal CSS, and HTML5 Canvas for layout.
